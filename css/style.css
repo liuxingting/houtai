@@ -1,0 +1,64 @@
+body{
+	font-family: "Microsoft yahei",sans-serif;
+	padding-bottom: 50px;
+}
+/*进度条*/
+.progress{
+	margin-bottom: 15px;
+}
+/*进度条*/
+
+/*头像专用*/
+.wh64{
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+}
+/*头像专用*/
+
+/*按钮边距*/
+.mar_t15{
+	margin-top: 15px;
+}
+/*按钮边距*/
+
+/*padding*/
+  .pad0{
+  	padding: 0;
+  }
+/*padding*/
+
+
+/*taglist*/
+ .taglist{
+ 	padding-top: 15px;
+ }
+ .taglist .alert{
+ 	margin: 0 15px 15px 0;
+ }
+/*taglist*/
+
+/*page-header*/
+.page-header{
+	margin-top: 0;
+}
+.page-header h1{
+	margin: 0;
+	font-size: 16px;
+}
+/*page-header*/
+
+/*user_search*/
+.user_search{
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-top: none;
+}
+/*user_search*/
+
+/*footer*/
+footer{
+	font-weight: 400;
+	text-align: center;
+	padding: 20px;
+}
